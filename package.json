@@ -1,0 +1,26 @@
+{
+  "name": "weather-pocalypse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeBujnowski/Weather-pocalypse.git"
+  },
+  "author": "Joe Bujnowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeBujnowski/Weather-pocalypse/issues"
+  },
+  "homepage": "https://github.com/JoeBujnowski/Weather-pocalypse#readme",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "node-fetch": "^1.6.3",
+    "path": "^0.12.7"
+  }
+}
